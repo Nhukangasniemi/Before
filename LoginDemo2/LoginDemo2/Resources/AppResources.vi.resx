@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Login" xml:space="preserve">
+    <value>Đăng nhập</value>
+  </data>
+  <data name="LoginName" xml:space="preserve">
+    <value>Tên Đăng nhập</value>
+  </data>
+  <data name="LoginNamePlaceholder" xml:space="preserve">
+    <value>Nhập địa chỉ email của bạn</value>
+  </data>
+  <data name="LoginPageTitle" xml:space="preserve">
+    <value>Đăng nhập</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Mật khẩu</value>
+  </data>
+  <data name="PasswordPlaceholder" xml:space="preserve">
+    <value>Nhập mật khẩu của bạn</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Đăng ký</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Tiêu đề đăng nhập mẫu</value>
+  </data>
+</root>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="qps-ploc" original="LOGINDEMO2/RESOURCES/APPRESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6915.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="LOGINDEMO2/RESOURCES/APPRESOURCES.RESX" datatype="resx">
+        <trans-unit id="Login" translate="yes" xml:space="preserve">
+          <source>Login</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[3F555][!!_Ĺõĝíή_!!]</target>
+        </trans-unit>
+        <trans-unit id="LoginName" translate="yes" xml:space="preserve">
+          <source>Login Name</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[CEE8F][!!_Ļôğìη Ņámè_!!]</target>
+        </trans-unit>
+        <trans-unit id="LoginNamePlaceholder" translate="yes" xml:space="preserve">
+          <source>Enter your email address</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[F031F][!!_Èиţêř ŷòùѓ émãįļ áđðŕéşš_!!]</target>
+        </trans-unit>
+        <trans-unit id="LoginPageTitle" translate="yes" xml:space="preserve">
+          <source>Login</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[0933A][!!_Ļôğìή_!!]</target>
+        </trans-unit>
+        <trans-unit id="Password" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[9CAF0][!!_Ρàŝšẅôřď_!!]</target>
+        </trans-unit>
+        <trans-unit id="PasswordPlaceholder" translate="yes" xml:space="preserve">
+          <source>Enter your password</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[EDCE2][!!_Éиτêř Уóúѓ рâšśẅóŗð_!!]</target>
+        </trans-unit>
+        <trans-unit id="Register" translate="yes" xml:space="preserve">
+          <source>Register</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[544F8][!!_Ŗêĝìşťêŗ_!!]</target>
+        </trans-unit>
+        <trans-unit id="Title" translate="yes" xml:space="preserve">
+          <source>Sample Login Title</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[2F7FB][!!_Şàmþłé Ļóġíй Ţįτļę_!!]</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LoginDemo2"
+             FlowDirection="{x:Static Device.FlowDirection}"
+             xmlns:i18n="clr-namespace:LoginDemo2.Helpers"
+             x:Class="LoginDemo2.MainPage">
+
+    <StackLayout Margin="10,0,10,0">
+        <Label Text="{i18n:Translate Title}"
+               FontSize="Large" 
+               HorizontalOptions="Center" />
+        <Image Source="person_icon.png" 
+               HorizontalOptions="Center" 
+               Margin="100,20,100,20" 
+               Aspect="AspectFit" />
+        <Label Text="{i18n:Translate LoginName}"
+               HorizontalOptions="Start" />
+        <Entry Placeholder="{i18n:Translate LoginNamePlaceholder}"></Entry>
+        <Label Text="{i18n:Translate Password}"
+               HorizontalOptions="Start" />
+        <Entry Placeholder="{i18n:Translate PasswordPlaceholder}"></Entry>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Text="{i18n:Translate Login}" 
+                    Grid.Column="1" />
+            <Button Text="{i18n:Translate Register}" 
+                    Grid.Column="2"/>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
